@@ -9,7 +9,7 @@
 **Domain Name:** nssolutions.shop  
 **Public IP Address:** 3.107.201.139  
 **Video Explainer Link:**   
-**GitHub Repository Link:** https://github.com/shraavankunerivinod/SHRAAVAN-KUNERI-VINOD_35579229_ASSIGNMENT2_ICT171-/edit/main/README.md  
+**GitHub Repository Link:** https://github.com/shraavankunerivinod/SHRAAVAN-KUNERI-VINOD_35579229_ASSIGNMENT2_ICT171-/blob/main/README.md 
 
 ---
 
