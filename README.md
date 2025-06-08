@@ -13,7 +13,7 @@
 
 ---
 
-## 📅 Development Timeline (Iterative Improvement Over 4 Weeks)
+##  Development Timeline (Iterative Improvement Over 4 Weeks)
 - **Week 1:** AWS EC2 instance setup and domain registration via GoDaddy.
 - **Week 2:** Core HTML pages developed: index, login, dashboard, blog.
 - **Week 3:** VPN & TeamSpeak integration, SSL cert setup.
@@ -21,7 +21,7 @@
 
 ---
 
-## 🏠 Infrastructure Setup on AWS EC2
+##  Infrastructure Setup on AWS EC2
 
 **Steps Followed:**
 1. Logged into AWS Management Console.
@@ -38,7 +38,7 @@ ssh -i "mytestserverkeypair.pem" ubuntu@ec2-3-107-201-139.ap-southeast-2.compute
 
 ---
 
-## 🔍 Domain, DNS & SSL Configuration
+##  Domain, DNS & SSL Configuration
 
 - **Domain Provider:** GoDaddy  
 - **Domain Name:** `nssolutions.shop`  
@@ -53,7 +53,7 @@ sudo certbot --apache
 
 ---
 
-## 🔧 Website Functionality & Structure
+##  Website Functionality & Structure
 
 ### Pages Developed:
 - **index.html:** Company introduction, services, navigation.
@@ -87,7 +87,7 @@ sudo certbot --apache
 
 ---
 
-## 📄 Script Details & Usefulness
+##  Script Details & Usefulness
 
 ### JavaScript Logic Implemented:
 - Role selection (Agent/User) with display toggling.
@@ -102,13 +102,14 @@ sudo certbot --apache
 - Provides user experience simulation for a multi-role portal.
 - Automates navigation and updates.
 
-**Creativity Level:** 
-- Custom code not lifted directly from labs.
-- Enhances understanding of localStorage, DOM interaction, and user simulation.
+**TOTAL COST OF OWNERSHIP**
+-EC2 - $O(per year)
+-GODADDY(DOMAIN) - $3(per year)
+-STORAGE(8GiB) - $9.60(per year)
+-TOTAL - $12.60(per year)
+- For 5 years, the total cost of running this website will be $63.
 
----
-
-## 📖 Documentation & Replication
+##  Documentation & Replication
 
 - **Setup Instructions Included** (EC2 + SSL + DNS).
 - **Scripts Documented** inline in HTML + JS files.
@@ -116,7 +117,7 @@ sudo certbot --apache
 
 ---
 
-## ✉️ DNS & SSL Documentation
+##  DNS & SSL Documentation
 
 **DNS:** Configured via GoDaddy to point A record to EC2 IP.  
 **SSL:** Enabled using Certbot + Apache, generating a secure `https://` URL.  
@@ -124,39 +125,11 @@ sudo certbot --apache
 
 ---
 
-## 🌐 Cloud Online Project Availability
+##  Cloud Online Project Availability
 
 - **Public DNS:** [http://nssolutions.shop](http://nssolutions.shop)  
 - **SSL:** Enabled via Certbot (HTTPS functional)  
 - **Availability:** Monitored post-deployment, available without downtime.
-
----
-
-## 🏅 Rubric Completion Checklist
-
-| Category                         | Max Marks | Status |
-|----------------------------------|-----------|--------|
-| **GitHub + Identity**            | 5         | ✅ Full marks (README, commits, ID shown) |
-| **Video Explainer**              | 10        | ✅ Link pending (Insert before final submission) |
-| **Website Functionality**        | 10        | ✅ Multi-page, integrated, responsive |
-| **Cloud Online Availability**    | 0         | ✅ Fully available online |
-| **Website Documentation**        | 3         | ✅ This README file serves as full documentation |
-| **DNS Functionality**            | 3         | ✅ DNS resolves correctly |
-| **SSL/TLS Functionality**        | 3         | ✅ HTTPS with valid cert |
-| **DNS & SSL Docs**               | 2         | ✅ Explained above |
-| **Script Usefulness/Creativity** | 3         | ✅ Original & purposeful scripts |
-| **Script Documentation**         | 2         | ✅ Inline comments and explained logic |
-| **Script Verifiable Output**     | 2         | ✅ Dashboard and logic visible |
-| **Script Fit & Purpose**         | 2         | ✅ Clear alignment with site function |
-| **TOTAL**                        | **45**    | ⭐ **Expected: 45/45** |
-
----
-
-## 🚀 Final Notes
-- Ensure video is uploaded and linked.
-- Commit and push this `README.md`.
-- Tag your commits with dates across 4+ weeks.
-- Double check that site is live and accessible.
 
 ---
 
