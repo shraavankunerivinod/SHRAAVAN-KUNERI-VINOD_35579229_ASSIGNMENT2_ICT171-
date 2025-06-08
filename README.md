@@ -74,7 +74,7 @@ sudo certbot --apache
 
 ---
 
-## 🖹 HTML Code Snippets (Index Page Example)
+##  HTML Code Snippets (Index Page Example)
 ```html
 <!-- index.html -->
 <header>
@@ -82,8 +82,6 @@ sudo certbot --apache
   <p>Delivering intelligent monitoring to protect data from unauthorized access using AI + human expertise.</p>
 </header>
 ```
-
-### Full code for all pages is available in the repository.
 
 ---
 
