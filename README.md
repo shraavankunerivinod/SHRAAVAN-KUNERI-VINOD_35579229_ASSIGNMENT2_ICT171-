@@ -133,5 +133,4 @@ sudo certbot --apache
 
 ---
 
-### © 2025 NetShield Solutions - Shraavan Kuneri Vinod (35579229)
-*Submitted as part of ICT171 - Murdoch University*
+
