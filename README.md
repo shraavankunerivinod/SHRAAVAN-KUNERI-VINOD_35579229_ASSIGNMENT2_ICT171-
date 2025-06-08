@@ -8,7 +8,7 @@
 **Project Title:** NETSHIELD SOLUTIONS - Cloud Server Project  
 **Domain Name:** nssolutions.shop  
 **Public IP Address:** 3.107.201.139  
-**Video Explainer Link:**   
+**Video Explainer Link:**   https://murdochuniversity-my.sharepoint.com/:v:/g/personal/35579229_student_murdoch_edu_au/EaziH_4RQGNJhDHS1jGKFKEBGtNp_ni9zK_UxPQcCoEYOw?e=2l2uIB
 **GitHub Repository Link:** https://github.com/shraavankunerivinod/SHRAAVAN-KUNERI-VINOD_35579229_ASSIGNMENT2_ICT171-/blob/main/README.md 
 
 ---
