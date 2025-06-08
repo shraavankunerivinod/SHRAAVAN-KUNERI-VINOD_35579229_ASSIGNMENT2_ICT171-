@@ -102,11 +102,11 @@ sudo certbot --apache
 - Provides user experience simulation for a multi-role portal.
 - Automates navigation and updates.
 
-**TOTAL COST OF OWNERSHIP**
--EC2 - $O(per year)
--GODADDY(DOMAIN) - $3(per year)
--STORAGE(8GiB) - $9.60(per year)
--TOTAL - $12.60(per year)
+## TOTAL COST OF OWNERSHIP
+- EC2 - $O(per year)
+- GODADDY(DOMAIN) - $3(per year)
+- STORAGE(8GiB) - $9.60(per year)
+- TOTAL - $12.60(per year)
 - For 5 years, the total cost of running this website will be $63.
 
 ##  Documentation & Replication
